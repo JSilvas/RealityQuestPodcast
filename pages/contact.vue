@@ -28,15 +28,14 @@
               <div class="content">
                 <p>
                   <strong>
-                    Edit this page in<code>/pages/contact.vue</code>to fit your
-                    needs.
+                    Have any feedback for us? We'd love to hear it!
                   </strong>
                 </p>
                 <p>
-                  This form doesn't actually work but would be easy enough to
-                  slap an action on to have it post wherever you'd like. Or put
-                  the netlify attribute on it and have netlify handle all your
-                  form submissions...
+                  Feel free to reach out if you have thoughts, feedback, or
+                  ideas for the show. We'd also love to hear about anyone you
+                  feel would be a great fit for a future episode, so drop us a
+                  line! We'd love to talk and will respond as quickly as we can.
                 </p>
               </div>
             </article>
