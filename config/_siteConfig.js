@@ -58,20 +58,20 @@ export default {
 
   // Disqus
   disqus: {
-    on: false,
+    on: true,
     loadingStrategy: 'button', // Options: onload, lazy, button
-    siteShortName: 'blog-danielkelly-io' // 'blog-danielkelly-io'
+    siteShortName: 'realityquestpodcast.com'
   },
 
   // Newsletter Subscribe
   newsletter: {
-    on: false, // Change to true to turn on
+    on: true,
     heading: 'Subscribe to Our Newsletter',
     btnText: 'Subscribe',
     // Can be the form action on a mail chimp form, a hubspot form,
     // or any other url you want to post the form data to
     mailchimp: {
-      on: false, // Change to true to turn on
+      on: true,
       formAction:
         'https://danielkelly.us3.list-manage.com/subscribe/post?u=d3c2e762b66a2353d0bc29bf3&amp;id=2abeaa06e0'
     },
@@ -83,7 +83,7 @@ export default {
 
   // Categories
   categories: {
-    on: false, // Change to true to turn on
+    on: true,
     perPage: 6,
     imageDimensions: null, // See card.imageDimensions (can be unique for categories if set here)
     theme: null // See card.theme (can be unique for categories if set here)
