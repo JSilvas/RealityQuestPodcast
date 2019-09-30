@@ -28,12 +28,11 @@
               <div class="content">
                 <p>
                   <strong>
-                    Edit this page in<code>/pages/contact.vue</code>to fit your
-                    needs.
+                    Have questions, ideas, feedback for us?
                   </strong>
                 </p>
                 <p>
-                  Have questions, ideas, feedback for us? Maybe you or a friend would be a great future guest on the show. Please don't hesitate to reach out to us here via email or DM @jaysilvas on twitter.
+                  Maybe you or a friend would be a great future guest on the show. Please don't hesitate to reach out to us here via email or DM @jaysilvas on twitter.
                 </p>
               </div>
             </article>
