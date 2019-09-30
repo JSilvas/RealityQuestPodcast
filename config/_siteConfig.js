@@ -65,7 +65,7 @@ export default {
 
   // Newsletter Subscribe
   newsletter: {
-    on: true,
+    on: false,
     heading: 'Subscribe to Our Newsletter',
     btnText: 'Subscribe',
     // Can be the form action on a mail chimp form, a hubspot form,
@@ -94,11 +94,11 @@ export default {
     on: true,
     theme: null, // See card.theme (can be unique for posts if set here)
     imageDimensions: null, // See card.imageDimensions (can be unique for posts if set here)
-    displayAuthor: true,
+    displayAuthor: false,
     date: {
       display: true
     },
-    perRow: 3,
+    perRow: 1,
     perPage: 6
   }
 }
