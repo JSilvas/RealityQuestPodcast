@@ -1,9 +1,7 @@
 ---
 title: Ep 1 - Creating Connection Through Virtual Reality with Katie Kelly
-subtitle:
 category:
-  - Social
-# author: Kelly Campelia, Jay Silvas, Katie Kelly
+  - Social Experience
 date: 2019-09-30T04:27:56.800Z
 featureImage: /uploads/marc-olivier-jodoin-nqoinj-ttqm-unsplash.jpg
 ---
