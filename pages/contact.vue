@@ -2,7 +2,7 @@
   <div id="contact-page" class="page-wrapper contact-page content-page">
     <site-hero
       title="Contact Us"
-      subtitle="Example Contact Page"
+      subtitle=""
       image="/uploads/contact-hero.jpg"
     ></site-hero>
     <main-section theme="sidebar-right">
@@ -32,10 +32,11 @@
                   </strong>
                 </p>
                 <p>
-                  Feel free to reach out if you have thoughts, feedback, or
-                  ideas for the show. We'd also love to hear about anyone you
-                  feel would be a great fit for a future episode, so drop us a
-                  line! We'd love to talk and will respond as quickly as we can.
+                  Reach out to us with thoughts, feedback, or ideas for the
+                  show. If feel you or someone you know would be a great future
+                  guest, don't hesitate to get in touch. Just keep in mind that
+                  we're running this podcast part-time currently, so we'll get
+                  back to you as soon as we're able.
                 </p>
               </div>
             </article>

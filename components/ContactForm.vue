@@ -1,5 +1,5 @@
 <template>
-  <form name="contact-form" netlify>
+  <form name="contact-form" data-netlify-recaptcha="true" netlify>
     <!-- Name -->
     <div class="field">
       <label class="label is-medium">Name</label>
@@ -49,6 +49,7 @@
         ></textarea>
       </div>
     </div>
+    <div data-netlify-recaptcha="true"></div>
     <div class="control">
       <button class="button is-primary">
         Contact Us
