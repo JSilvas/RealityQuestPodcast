@@ -2,7 +2,7 @@
 title: Ep 1 - Creating Connection Through Virtual Reality with Katie Kelly
 category:
   - Social Experience
-date: 2019-09-30T04:27:56.800Z
+date: 2019-09-30T11:00:00.000Z
 featureImage: >-
   /uploads/ep1-creating-connections-through-virtual-reality_2019-06-29-18-15-16-01-02.jpeg
 ---
