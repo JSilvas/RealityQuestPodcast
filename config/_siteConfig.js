@@ -10,7 +10,8 @@ import theCMS from '../cms/netlify/cms'
  */
 export default {
   siteName: 'Reality Quest',
-  tagline: ' Two curious minds explore immersive technologies',
+  tagline:
+    ' Two curious minds explore the farthest reaches of immersive technologies',
   featureImage: '/uploads/home-hero.jpg',
   logo: 'logo-component', // 'logo-component', // or '/logo.svg' for regular image
   googleAnalytics: {
